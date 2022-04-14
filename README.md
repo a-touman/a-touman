@@ -34,12 +34,11 @@ __Check out my GitHub repositories:__
 </div>
 
 
-<h2>👀 My github Stats</h2>
+<h2>👀 My Github Stats</h2>
 
 <div>
   
-  <p align="left">
-  <b><em>GitHub Stats:</em></b> <br/>
+  <p align="left"> <br/>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=a-touman" alt="GitHub Stats" /> <br/>
   
 </div>
