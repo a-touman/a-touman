@@ -4,7 +4,7 @@
 
 <img align="right" width=300px alt="Unicorn" src="https://github.com/a-touman/a-touman/blob/main/catcoding.gif" />
 
-## <img src="https://c.tenor.com/I_G7GzzhqdwAAAAi/pixeldoges-pixel.gif" width="35px">&nbsp;***About me***
+## <img src="https://github.com/a-touman/a-touman/blob/main/wlcmdoge.gif" width="35px">&nbsp;***About me***
 
 I am a Software Engineering student at Bahçeşehir University. I love to learn and build something new, productive, innovative and creative.
 
