@@ -1,5 +1,5 @@
 # Hi there 👋 
-![Visitor](https://visitor-badge.laobi.icu/badge?page_id=a-touman.repoName) [![GitHub followers](https://img.shields.io/github/followers/a-touman.svg?style=social&label=Follow)](https://github.com/Bhargavi-hash?tab=followers)<br/>
+![Visitor](https://visitor-badge.laobi.icu/badge?page_id=a-touman.repoName) [![GitHub followers](https://img.shields.io/github/followers/a-touman.svg?style=social&label=Follow)](https://github.com/a-touman?tab=followers)<br/>
 
 
 <img align="right" width=300px alt="Unicorn" src="https://github.com/a-touman/a-touman/blob/main/catcoding.gif" />
