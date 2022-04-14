@@ -24,8 +24,8 @@ __Check out my GitHub repositories:__
 
 <div>
   <p>
-    <a href="https://github.com/a-touman/Wurood.git">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=a-touman&repo=Wurood" alt="GitHub Stats" />
+    <a href="https://github.com/a-touman/Chatty.git">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=a-touman&repo=Chatty" alt="GitHub Stats" />
     </a>
     <a href="https://github.com/a-touman/DSAAudioPlayer.git">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=a-touman&repo=DSAAudioPlayer" alt="GitHub Stats" />
