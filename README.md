@@ -7,9 +7,8 @@
 ## <img src="https://github.com/a-touman/a-touman/blob/main/wlcmdoge.gif" width="35px">&nbsp;***About me***
 
 
-<p> align = "right" >
-<img width="100" height="100" src="https://github.com/a-touman/a-touman/blob/main/catcoding.gif" >
-</p>
+<img align = "right" width="300" height="300" src="https://github.com/a-touman/a-touman/blob/main/catcoding.gif" >
+
 
 I am a Software Engineering student at Bahçeşehir University. I love to learn and build something new, productive, innovative and creative.
 
