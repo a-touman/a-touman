@@ -2,12 +2,16 @@
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=a-touman.repoName) [![GitHub followers](https://img.shields.io/github/followers/a-touman.svg?style=social&label=Follow)](https://github.com/a-touman?tab=followers)<br/>
 
 
-<img align="right" width=300px alt="Unicorn" src="https://github.com/a-touman/a-touman/blob/main/catcoding.gif" />
+
 
 ## <img src="https://github.com/a-touman/a-touman/blob/main/wlcmdoge.gif" width="35px">&nbsp;***About me***
 
-I am a Software Engineering student at Bahçeşehir University. I love to learn and build something new, productive, innovative and creative.
 
+<p> align = "right" >
+<img width="100" height="100" src="https://github.com/a-touman/a-touman/blob/main/catcoding.gif" >
+</p>
+
+I am a Software Engineering student at Bahçeşehir University. I love to learn and build something new, productive, innovative and creative.
 
 
 * I am interested in Mobile Development, Game development, and all things coding (¬‿¬) 
