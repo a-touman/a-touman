@@ -10,16 +10,15 @@
 <img align = "right" width="300" height="300" src="https://github.com/a-touman/a-touman/blob/main/catcoding.gif" >
 
 
-I am a Software Engineering student at Bahçeşehir University. I love to learn and build something new, productive, innovative and creative.
+I am a Software Engineer. I love to learn and build something new, productive, innovative and creative.
 
 
-* I am interested in Mobile Development, Game development, and all things coding (¬‿¬) 
+* I am interested in Mobile Development
 - 🌱 I’m currently learning ...
-  - GUI with Python 🐍
   - Flutter 📱
   
 - 👯 I’m looking forward to collaborate on open source projects.
-- ✔ Ask me about anything, I am happy to help<br>
+
 
 
 
