@@ -26,8 +26,8 @@ __Check out my GitHub repositories:__
 
 <div>
   <p>
-    <a href="https://github.com/a-touman/Chatty.git">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=a-touman&repo=Chatty" alt="GitHub Stats" />
+    <a href="https://github.com/a-touman/Moviez.git">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=a-touman&repo=Moviez" alt="GitHub Stats" />
     </a>
     <a href="https://github.com/Tayma-Kazmouz/COVID19-ANALYZER-MAP.git">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tayma-Kazmouz&repo=COVID19-ANALYZER-MAP" alt="GitHub Stats" />
