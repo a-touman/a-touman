@@ -25,8 +25,8 @@ I am a Software Engineer. I love to learn and build something new, productive, i
 __Check out my GitHub repositories:__
 <div>
   <p>
-    <a href="https://github.com/a-touman/quran-riwayat.git">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=a-touman&repo=quran-riwayat" alt="GitHub Stats" />
+    <a href="https://github.com/m-amin/quran-riwayat.git">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=m-amin&repo=quran-riwayat" alt="GitHub Stats" />
     </a>
     <a href="https://github.com/a-touman/COVID19-ANALYZER-MAP.git">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=a-touman&repo=COVID19-ANALYZER-MAP" alt="GitHub Stats" />
