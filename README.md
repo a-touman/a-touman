@@ -14,7 +14,7 @@ I am a Software Engineer. I love to learn and build something new, productive, i
 
 
 * I am interested in Mobile Development
-- 🌱 I’m currently writing in ...
+- 🌱 I’m currently coding in ...
   - Flutter 📱
   
 - 👯 I’m looking forward to collaborate on open source projects.
