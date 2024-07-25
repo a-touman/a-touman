@@ -16,7 +16,8 @@ I am a Software Engineer. I love to learn and build something new, productive, i
 * I am interested in Full Stack Development
 - 🌱 I’m currently coding in ...
   - Flutter 📱
-  - PHP Laravel 🚀 
+  - PHP Laravel 🚀
+  - NextJS 💎
   
 - 👯 I’m looking forward to collaborate on open source projects.
 
