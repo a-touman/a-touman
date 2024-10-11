@@ -37,16 +37,4 @@ __Check out my GitHub repositories:__
 </div>
 
 
-<h2>👀 My Github Stats</h2>
-
-<div>
-  
-  <p align="left"> <br/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=a-touman" alt="GitHub Stats" /> <br/>
-  
-</div>
-
-
-![My github status](https://github-readme-stats.vercel.app/api?username=a-touman&show_icons=true&include_all_commits=true)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=a-touman&layout=compact)
