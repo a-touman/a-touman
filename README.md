@@ -24,20 +24,3 @@ I am a Software Engineer. I love to learn and build something new, productive, i
 
 
 
-__Check out my GitHub repositories:__
-<div>
-  <p>
-    <a href="https://github.com/a-touman/quran-riwayat.git">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=a-touman&repo=quran-riwayat" alt="GitHub Stats" />
-    </a>
-        <a href="https://github.com/a-touman/muslim_pal.git">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=a-touman&repo=muslim_pal" alt="GitHub Stats" />
-    </a>
-    <a href="https://github.com/a-touman/COVID19-ANALYZER-MAP.git">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=a-touman&repo=COVID19-ANALYZER-MAP" alt="GitHub Stats" />
-    </a>
-  </p>
-</div>
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=a-touman&layout=compact)
